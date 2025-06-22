@@ -8,7 +8,7 @@ Perform a comprehensive financial analysis and build a customer Lifetime Value (
 
 ## Project Dashboard
 
-[View Finance Dashboard on Tableau Public]((https://public.tableau.com/app/profile/marina.lozanskaya/viz/shared/DRHWBG8CH))  
+[View Finance Dashboard on Tableau Public](https://public.tableau.com/shared/BJQP8YXQ4?:display_count=n&:origin=viz_share_link)
 
 
 ## What I Did
